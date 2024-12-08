@@ -1,4 +1,4 @@
-# Understanding-Cancer-Mortality-Trends-USA-Analysis 
+# Understanding-Cancer-Mortality-Trends-USA-Statistical-Analysis 
 Conducted comprehensive analysis of cancer mortality in the USA, a crucial indicator of public health, using advanced statistical methods. 📊 Explored factors influencing cancer mortality rates, including demographics, socioeconomic factors, and healthcare access.
 
 🛠 Employed Multiple Linear Regression to model mortality rates based on various independent variables, such as income, education, and ethnicity.
